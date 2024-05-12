@@ -1,5 +1,5 @@
 # Upscale an array(b) by some amount(a)
-Upscale ← °⍉▽▽⧻⟜:⍉▽▽⧻,⟜:
+Upscale ← ⍜⊙⍉▽⟜▽
 # Replace all occurrences of (a) in (c) with (b)
 Replace ← ⍜⊜∘≡⋅∘ ⊂⊢:≡/(×⊃≥⋅(≠0))◫2./+ ≡↻⊙¤¯⇡⧻⟜⌕⊙⊓.¤
 
