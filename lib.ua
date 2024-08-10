@@ -1,9 +1,9 @@
 # Upscale an array
 # ? Scale Target
 Upscale ← ▽⟜≡▽
-# Replace all occurrences a string in another
+# Replace all occurrences of (a) in (c) with (b)
 # ? Needle Replacement Haystack
-Replace ← ⍜⊜∘≡⋅∘ ⊂⊢:≡/(×⊃≥⋅(≠0))◫2./+ ≡↻⊙¤¯⇡⧻⟜⌕⊙⊓.¤
+Replace ← ⍜⊜∘≡⋅∘⊓⊸⦷¤
 
 ---test
 ⍤⟜≍: [.1_1_2_2 .3_3_4_4] Upscale 2 [1_2 3_4]
