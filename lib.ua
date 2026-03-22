@@ -6,6 +6,8 @@ Upscale ← ▽₂
 Replace ← ⍜⊜∘≡⋅∘⊓⊸⦷¤
 # Scale two arrays to have compatible shapes
 Conform ← ˜∩∧(⍉▽) ∩⌞(˜÷↙◡⋅⧻) ◡⬚0↥ ◡∩△
+# A meme image
+Meme ← ◌°img&frab ⊂ThisFileDir"/meme.png"
 
 ┌─╴test
   ⍤⤙≍ [⟜∘ 1_1_2_2 ⟜∘ 3_3_4_4] Upscale 2 [1_2 3_4]
